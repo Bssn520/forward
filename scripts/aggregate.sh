@@ -209,9 +209,9 @@ echo -e "${YELLOW}📝 生成最终文件: $final_count 个模块${NC}"
 
 # 生成最终输出文件
 jq --tab '{
-  "name": "Widgets Collection",
-  "description": "聚合",
-  "icon": "https://github.com/pack1r/ForwardWidgets/raw/main/icon.png",
+  "title": "😎 MyWidgets - Github",
+  "description": "Github定时拉取并聚合",
+  "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png",
   "widgets": .
 }' "$TEMP_WIDGETS" > "$OUTPUT_FILE"
 
