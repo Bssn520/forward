@@ -1,7 +1,7 @@
 {
-	"name": "Widgets Collection",
-	"description": "聚合",
-	"icon": "https://github.com/pack1r/ForwardWidgets/raw/main/icon.png",
+	"title": "😎 MyWidgets - Github",
+	"description": "Github定时拉取并聚合",
+	"icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png",
 	"widgets": [
 		{
 			"id": "91porn",
